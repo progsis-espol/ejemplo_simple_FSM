@@ -1,5 +1,5 @@
-# Ejemplo de implementación de una FSM en C
-Este repositorio contiene una implementación demostrativa de Finite State Machine (FSM) en lenguaje C. El código implementa un semáforo con el siguiente comportamiento:
+# Implementación de una FSM en C
+Este repositorio contiene una implementación demostrativa de una Finite State Machine (FSM) en lenguaje C. El código implementa un semáforo con el siguiente comportamiento:
 
 ![FSM Semáforo](fsm.PNG)
 *Fuente: Making Embedded Systems. Elicia White. (2011)*
