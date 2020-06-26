@@ -2,6 +2,7 @@
 Este repositorio contiene una implementación demostrativa de Finite State Machine (FSM) en lenguaje C. El código implementa un semáforo con el siguiente comportamiento:
 
 ![FSM Semáforo](fsm.PNG)
+*Fuente: Making Embedded Systems. Elicia White. (2011)*
 
 El programa usa la consola para simular los eventos de la siguiente forma:
 
@@ -10,7 +11,7 @@ El programa usa la consola para simular los eventos de la siguiente forma:
 * letra t = TIMER_TIMEOUT
 * letra g = GO_COMMAND
 
-## Compilación
+## Compilación y Ejecución
 Para compilar el programa:
 ```
 $ make
@@ -18,4 +19,8 @@ $ make
 Para ejecutar el programa:
 ```
 $ make run
+```
+o
+```
+$ ./programa
 ```
