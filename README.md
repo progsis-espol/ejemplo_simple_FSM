@@ -1,5 +1,14 @@
-# Plantilla simple programa en C
-Plantilla genérica simplificada para repositorios de proyectos desarrollados en el lenguaje C usando GCC y Make.
+# Ejemplo de implementación de una FSM en C
+Este repositorio contiene una implementación demostrativa de Finite State Machine (FSM) en lenguaje C. El código implementa un semáforo con el siguiente comportamiento:
+
+![FSM Semáforo](fsm.PNG)
+
+El programa usa la consola para simular los eventos de la siguiente forma:
+
+* letra q = Salir del programa
+* letra s = STOP_COMMAND
+* letra t = TIMER_TIMEOUT
+* letra g = GO_COMMAND
 
 ## Compilación
 Para compilar el programa:
